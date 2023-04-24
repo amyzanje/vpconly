@@ -3,7 +3,7 @@ terraform {
     organization = "amyzanje"
 
     workspaces {
-      name = "new"
+      name = "vpconly"
     }
   }
 }
